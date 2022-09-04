@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tingnung",
+        "command": "tingnung:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tingnung",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tingnung:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
