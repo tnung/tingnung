@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tingnung:toggle"
   },
-  "repository": "https://github.com/atom/tingnung",
+  "repository": "https://github.com/tnung/tingnung",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
